@@ -12,6 +12,7 @@
 ├── hooks                    カスタムフックス
 ├── libs                     外部パッケージ依存の設定ファイルなど
 ├── models                   アプリケーション用のドメインモデル
+├── pages                    Next.jsが管理している各ページのroute
 ├── repositories             API接続のロジック
 ├── states                   グローバルステート管理
 ├── styles                   グローバルで適用するcss
