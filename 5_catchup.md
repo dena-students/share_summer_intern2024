@@ -6,6 +6,7 @@
     - プロップス
 - **SSRとCSRの違い**
 - **Next.jsの最適化**
+- Pages Router の使い方
 
 ## Golang
 - **基本的な文法**
